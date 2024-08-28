@@ -16,8 +16,8 @@ This project brings the character Fox from the movie "Wanted" to life as an inte
 
 * **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/fox-chatbot.git
-cd fox-chatbot
+git clone https://github.com/cl0ver012/Igcy_Chatbot/
+cd Igcy_Chatbot
 ```
 
 * **Create a virtual environment (recommended):**
